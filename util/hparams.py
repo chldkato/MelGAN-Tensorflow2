@@ -1,0 +1,12 @@
+sample_rate = 22050
+n_fft = 1024
+hop_length = 256
+win_length = 1024
+mel_dim = 80
+batch_size = 16
+checkpoint_step = 1000
+learning_rate = 0.0001
+beta_1 = 0.5
+beta_2 = 0.9
+lambda_feat = 10
+seq_len = 32
