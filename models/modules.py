@@ -1,5 +1,4 @@
 import tensorflow as tf
-from tensorflow_addons.layers import WeightNormalization
 from tensorflow.keras import Model, Sequential
 from tensorflow.keras.layers import Conv1D, LeakyReLU
 
