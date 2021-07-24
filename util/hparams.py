@@ -10,3 +10,4 @@ beta_1 = 0.5
 beta_2 = 0.9
 lambda_feat = 10
 seq_len = 32
+checkpoint_dir = 'ckpt'
